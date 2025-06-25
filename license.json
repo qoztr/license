@@ -1,7 +1,7 @@
 [
     {
-        "test": {
-            "127.0.0.1": "qoztr"
+        "bot": {
+            "SERIALNUMARA1": "test123"
         }
     }
 ]
