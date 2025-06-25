@@ -1,7 +1,8 @@
 [
-    {
-        "bot": {
-            "SERIALNUMARA1": "test123"
-        }
+  {
+    "bot": {
+      "SERIALNUMARA1": "valid",
+      "SERIALNUMARA2": "valid"
     }
+  }
 ]
